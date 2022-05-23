@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_activity.xml" value="0.18" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_b.xml" value="0.18" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_c.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_d.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_e.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_f.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_g.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_go_on2.xml" value="0.14" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_h.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_link.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_play.xml" value="0.2" />
+        <entry key="..\:/Users/manahil27/AndroidStudioProjects/LearnAndTest/app/src/main/res/layout/activity_test.xml" value="0.1671195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
